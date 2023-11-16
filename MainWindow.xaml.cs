@@ -24,5 +24,14 @@ namespace Windows_Highlighting
         {
             InitializeComponent();
         }
+
+        private void dragWindow(object sender, MouseButtonEventArgs e)
+        {
+            try
+            {
+                DragMove();
+            }
+            catch { }
+        }
     }
 }

@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Windows_Highlighting"
         mc:Ignorable="d"
-        Title="Windows Highlighting" Height="350" Width="400" ResizeMode="NoResize" FontFamily="Segoe UI" FontSize="16" WindowStyle="None" WindowStartupLocation="CenterScreen">
-    <Grid>
-
-    </Grid>
+        Title="Windows Highlighting" Height="350" Width="400" ResizeMode="NoResize" FontFamily="Segoe UI" FontSize="16" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="{x:Null}" AllowsTransparency="True" MouseLeftButtonDown="dragWindow">
+    <Border CornerRadius="12" Background="Gray" BorderBrush="Gray" BorderThickness="0.3">
+        
+    </Border>
 </Window>
