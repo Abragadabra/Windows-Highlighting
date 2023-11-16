@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Windows Highlighting")]
 [assembly: AssemblyDescription("Программа для изменения цвета выделения для Windows")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Abragadabra")]
 [assembly: AssemblyProduct("Windows Highlighting")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
